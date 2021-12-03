@@ -1,0 +1,19 @@
+COSC 490 Senior Project README
+
+This is the readme file required for the project. This Github repository is a fork from the searx master repository and was used in the making of the website
+where my Searx instance is hosted.
+
+Hosting a private instance of SearX, whether it is from this repository or the master repository, requires a virtual environment, like an Ubuntu server, which
+is what I used for my own instance. Ubuntu is free to download from the Windows store for this purpose.
+
+From there, setting up and running a local instance of SearX can be done by booting up Ubuntu and following the step-by-step instructions laid out on SearX's
+official documentation, linked below.
+
+https://searx.github.io/searx/admin/installation-searx.html
+
+Following these instructions up to the end will allow any user to locally host and use their own personal instance of SearX, so long as the console remains open.
+For my instance specifically, you would simply need to clone this repository instead of the master SearX repository indicated in the instructions, and you would
+be able to access and configure my instance of SearX with the JascoSearch theme and the particular settings that I made for my instance.
+
+Creating a web-accessible version of SearX on a dedicated server that anyone can find, like I am doing, is a more complicated process that requires a little bit of money to start
+up, let alone keep sustainable. Locally hosted instances are safer and more ideal for the average user.
